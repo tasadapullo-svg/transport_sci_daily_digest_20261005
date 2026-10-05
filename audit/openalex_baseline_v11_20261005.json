@@ -1,0 +1,5767 @@
+{
+  "version": "1.1",
+  "generated_at": "2026-10-05T04:36:01.088Z",
+  "date_window": {
+    "from": "2025-10-05",
+    "to": "2026-10-05"
+  },
+  "v10_unique_count": 161,
+  "query_statistics": [
+    {
+      "id": "F01",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic speed forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 20,
+      "local_match_count": 6,
+      "filtered_count": 6,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 6,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "F02",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic speed prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 27,
+      "local_match_count": 4,
+      "filtered_count": 4,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 2,
+      "duplicates_in_query": 2,
+      "duplicate_rate": 0.5
+    },
+    {
+      "id": "F03",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic flow forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 45,
+      "local_match_count": 8,
+      "filtered_count": 8,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 7,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.125
+    },
+    {
+      "id": "F04",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic flow prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 22,
+      "filtered_count": 20,
+      "scientific_scope_removed": 2,
+      "hard_excluded": 2,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 18,
+      "duplicates_in_query": 2,
+      "duplicate_rate": 0.1
+    },
+    {
+      "id": "F05",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "travel time prediction",
+      "scope": "title",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 2,
+      "local_match_count": 2,
+      "filtered_count": 2,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 2,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "F06",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "travel time forecasting",
+      "scope": "title",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 1,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "F07",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic state prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 10,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "F09",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "traffic probabilistic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 6,
+      "filtered_count": 5,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 1,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 3,
+      "duplicates_in_query": 2,
+      "duplicate_rate": 0.4
+    },
+    {
+      "id": "F10",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "multi-horizon traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 1
+    },
+    {
+      "id": "F11",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "short-term traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 18,
+      "local_match_count": 2,
+      "filtered_count": 2,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 2,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "F12",
+      "group": "CORE FORECASTING",
+      "priority": 5,
+      "query": "long-term traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": true,
+      "status": "success",
+      "raw_count": 7,
+      "local_match_count": 2,
+      "filtered_count": 2,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.5
+    },
+    {
+      "id": "M01",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "graph neural network traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 8,
+      "filtered_count": 8,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 2,
+      "duplicates_in_query": 6,
+      "duplicate_rate": 0.75
+    },
+    {
+      "id": "M02",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "transformer traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 9,
+      "filtered_count": 8,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 0,
+      "conditional_excluded": 1,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 8,
+      "duplicate_rate": 1
+    },
+    {
+      "id": "M03",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "transfer learning traffic prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 5,
+      "filtered_count": 4,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 0,
+      "conditional_excluded": 1,
+      "topic_excluded": 0,
+      "unique_contribution": 3,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.25
+    },
+    {
+      "id": "M04",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "cross-city traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "M05A",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "cross-city traffic prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 4,
+      "filtered_count": 4,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 4,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "M05B",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "transferable traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 0,
+      "filtered_count": 0,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "M06",
+      "group": "METHODS",
+      "priority": 4,
+      "query": "uncertainty traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 6,
+      "filtered_count": 5,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 0,
+      "conditional_excluded": 1,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 5,
+      "duplicate_rate": 1
+    },
+    {
+      "id": "D01",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "floating car data",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 36,
+      "local_match_count": 4,
+      "filtered_count": 4,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 4,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "D02",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "probe vehicle traffic",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 31,
+      "local_match_count": 13,
+      "filtered_count": 12,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 1,
+      "unique_contribution": 11,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.08333333333333333
+    },
+    {
+      "id": "D03",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "multi-source traffic data fusion",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 7,
+      "filtered_count": 5,
+      "scientific_scope_removed": 2,
+      "hard_excluded": 2,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 4,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.2
+    },
+    {
+      "id": "D04",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "multimodal traffic prediction",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 13,
+      "filtered_count": 6,
+      "scientific_scope_removed": 7,
+      "hard_excluded": 0,
+      "conditional_excluded": 6,
+      "topic_excluded": 1,
+      "unique_contribution": 3,
+      "duplicates_in_query": 3,
+      "duplicate_rate": 0.5
+    },
+    {
+      "id": "D05",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "multimodal traffic forecasting",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 5,
+      "filtered_count": 3,
+      "scientific_scope_removed": 2,
+      "hard_excluded": 0,
+      "conditional_excluded": 2,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 2,
+      "duplicate_rate": 0.6666666666666666
+    },
+    {
+      "id": "D06",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "connected vehicle data traffic",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 25,
+      "filtered_count": 21,
+      "scientific_scope_removed": 4,
+      "hard_excluded": 0,
+      "conditional_excluded": 4,
+      "topic_excluded": 0,
+      "unique_contribution": 19,
+      "duplicates_in_query": 2,
+      "duplicate_rate": 0.09523809523809523
+    },
+    {
+      "id": "D07",
+      "group": "DATA / MULTISOURCE",
+      "priority": 4,
+      "query": "traffic sensor reliability",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 6,
+      "filtered_count": 3,
+      "scientific_scope_removed": 3,
+      "hard_excluded": 1,
+      "conditional_excluded": 1,
+      "topic_excluded": 1,
+      "unique_contribution": 3,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "C01",
+      "group": "MANAGEMENT",
+      "priority": 2,
+      "query": "traffic signal control",
+      "scope": "title",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 29,
+      "local_match_count": 27,
+      "filtered_count": 26,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 0,
+      "conditional_excluded": 1,
+      "topic_excluded": 0,
+      "unique_contribution": 25,
+      "duplicates_in_query": 1,
+      "duplicate_rate": 0.038461538461538464
+    },
+    {
+      "id": "C02",
+      "group": "MANAGEMENT",
+      "priority": 2,
+      "query": "traffic congestion management",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 30,
+      "filtered_count": 25,
+      "scientific_scope_removed": 5,
+      "hard_excluded": 3,
+      "conditional_excluded": 2,
+      "topic_excluded": 0,
+      "unique_contribution": 14,
+      "duplicates_in_query": 11,
+      "duplicate_rate": 0.44
+    },
+    {
+      "id": "C03",
+      "group": "MANAGEMENT",
+      "priority": 2,
+      "query": "traffic incident",
+      "scope": "title",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 2,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "C04",
+      "group": "MANAGEMENT",
+      "priority": 2,
+      "query": "traffic state estimation",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 25,
+      "filtered_count": 25,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 18,
+      "duplicates_in_query": 7,
+      "duplicate_rate": 0.28
+    },
+    {
+      "id": "R01",
+      "group": "RELIABILITY / RESILIENCE",
+      "priority": 3,
+      "query": "traffic reliability",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 50,
+      "local_match_count": 27,
+      "filtered_count": 16,
+      "scientific_scope_removed": 11,
+      "hard_excluded": 10,
+      "conditional_excluded": 1,
+      "topic_excluded": 0,
+      "unique_contribution": 9,
+      "duplicates_in_query": 7,
+      "duplicate_rate": 0.4375
+    },
+    {
+      "id": "R02",
+      "group": "RELIABILITY / RESILIENCE",
+      "priority": 3,
+      "query": "road network resilience",
+      "scope": "title",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 4,
+      "local_match_count": 3,
+      "filtered_count": 2,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 1,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 2,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "R03",
+      "group": "RELIABILITY / RESILIENCE",
+      "priority": 3,
+      "query": "transportation network resilience",
+      "scope": "title",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 1,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "X01",
+      "group": "CROSS-BORDER",
+      "priority": 5,
+      "query": "border crossing congestion",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 4,
+      "local_match_count": 0,
+      "filtered_count": 0,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "X02",
+      "group": "CROSS-BORDER",
+      "priority": 5,
+      "query": "cross-border transportation",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 25,
+      "local_match_count": 1,
+      "filtered_count": 1,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 1,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "X03",
+      "group": "CROSS-BORDER",
+      "priority": 5,
+      "query": "checkpoint traffic",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 12,
+      "local_match_count": 0,
+      "filtered_count": 0,
+      "scientific_scope_removed": 0,
+      "hard_excluded": 0,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    },
+    {
+      "id": "X04",
+      "group": "CROSS-BORDER",
+      "priority": 5,
+      "query": "border travel time",
+      "scope": "title_and_abstract",
+      "exact_phrase": false,
+      "status": "success",
+      "raw_count": 23,
+      "local_match_count": 1,
+      "filtered_count": 0,
+      "scientific_scope_removed": 1,
+      "hard_excluded": 1,
+      "conditional_excluded": 0,
+      "topic_excluded": 0,
+      "unique_contribution": 0,
+      "duplicates_in_query": 0,
+      "duplicate_rate": 0
+    }
+  ],
+  "failed_queries": [],
+  "raw_count": 1197,
+  "local_matched_count": 277,
+  "filtered_count": 233,
+  "unique_count": 169,
+  "duplicates_removed": 64,
+  "scientific_scope_removed": 44,
+  "hard_excluded": 21,
+  "conditional_excluded": 20,
+  "topic_excluded": 3,
+  "relevance_class_counts": {
+    "A_CORE": 148,
+    "B_RELATED": 7,
+    "C_MANAGEMENT": 13,
+    "D_PERIPHERAL": 1
+  },
+  "scientific_scope_removed_records": [
+    {
+      "query_id": "F04",
+      "openalex_id": "https://openalex.org/W7117533509",
+      "doi": "10.1080/21680566.2025.2604701",
+      "title": "Air traffic flow prediction based on graph convolution guided generative adversarial network",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "air traffic"
+    },
+    {
+      "query_id": "F04",
+      "openalex_id": "https://openalex.org/W7160245434",
+      "doi": "10.1109/tits.2026.3687131",
+      "title": "Applying Fused Data to Predict Vessel Traffic Flow: A Hybrid-Model Deep Learning Approach",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "vessel traffic"
+    },
+    {
+      "query_id": "F09",
+      "openalex_id": "https://openalex.org/W7160245434",
+      "doi": "10.1109/tits.2026.3687131",
+      "title": "Applying Fused Data to Predict Vessel Traffic Flow: A Hybrid-Model Deep Learning Approach",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "vessel traffic"
+    },
+    {
+      "query_id": "M02",
+      "openalex_id": "https://openalex.org/W7167795903",
+      "doi": "10.1061/jtepbs.teeng-9727",
+      "title": "RuLiF: Rule-Guided Lightweight Framework for Multiagent Trajectory Forecasting in Traffic Systems",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory forecasting"
+    },
+    {
+      "query_id": "M03",
+      "openalex_id": "https://openalex.org/W7202177754",
+      "doi": "10.1016/j.trc.2026.105914",
+      "title": "A new framework for vehicle trajectory prediction based on physics-informed deep learning models",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "M06",
+      "openalex_id": "https://openalex.org/W7118089132",
+      "doi": "10.1080/21680566.2025.2609608",
+      "title": "A novel multi-agent trajectory prediction method for maneuver and collision optimization",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D02",
+      "openalex_id": "https://openalex.org/W7135225829",
+      "doi": "10.1080/23249935.2026.2642674",
+      "title": "A physics-guided and adaptive fusion framework for vehicle trajectory reconstruction on freeways",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "removed_reason": "SCIENTIFIC_SCOPE_TOPIC_EXCLUDE",
+      "matched_term": "autonomous vehicle"
+    },
+    {
+      "query_id": "D03",
+      "openalex_id": "https://openalex.org/W7116697232",
+      "doi": "10.1016/j.tre.2025.104599",
+      "title": "LLM4STP: A large language model-driven multi-feature fusion method for ship trajectory prediction",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "source_id": "S173966628",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "ship trajectory"
+    },
+    {
+      "query_id": "D03",
+      "openalex_id": "https://openalex.org/W7125940799",
+      "doi": "10.1109/tits.2026.3655007",
+      "title": "Graph Learning-Driven Multi-Vessel Association: Fusing Multimodal Data for Maritime Intelligence",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "maritime"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W7118488654",
+      "doi": "10.1016/j.aej.2025.12.059",
+      "title": "Multimodal vehicle trajectory prediction at urban uncontrolled intersections considering multiple types of traffic participants and driving risks",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W4417002502",
+      "doi": "10.1109/tits.2025.3629411",
+      "title": "Hierarchical Recursive Interaction and Multi-Stage Goal-Guided Mechanism for Multimodal Trajectory Prediction",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W7118089132",
+      "doi": "10.1080/21680566.2025.2609608",
+      "title": "A novel multi-agent trajectory prediction method for maneuver and collision optimization",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W7215107956",
+      "doi": "10.1061/jtepbs.teeng-9829",
+      "title": "A Trajectory Prediction Approach Incorporating Spatial-Temporal Safety Features for Autonomous Vehicles",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W7140122676",
+      "doi": "10.1109/tits.2026.3674465",
+      "title": "PCIP: Toward Real-Time Pedestrian Crossing Intention Prediction With Adaptive Fusion and Temporal Dynamics Encoding",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "pedestrian"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W7162752956",
+      "doi": "10.1080/23249935.2026.2670750",
+      "title": "Spatiotemporal driving corridor trajectory planning framework based on data knowledge enhancement in the Frenet coordinate system",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory planning"
+    },
+    {
+      "query_id": "D04",
+      "openalex_id": "https://openalex.org/W4417336959",
+      "doi": "10.1109/tits.2025.3641530",
+      "title": "Digital Twins as Predictive Models for Real-Time Probabilistic Risk Assessment of Autonomous Vehicles",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_TOPIC_EXCLUDE",
+      "matched_term": "autonomous vehicle"
+    },
+    {
+      "query_id": "D05",
+      "openalex_id": "https://openalex.org/W7118089132",
+      "doi": "10.1080/21680566.2025.2609608",
+      "title": "A novel multi-agent trajectory prediction method for maneuver and collision optimization",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D05",
+      "openalex_id": "https://openalex.org/W7215107956",
+      "doi": "10.1061/jtepbs.teeng-9829",
+      "title": "A Trajectory Prediction Approach Incorporating Spatial-Temporal Safety Features for Autonomous Vehicles",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D06",
+      "openalex_id": "https://openalex.org/W4416694663",
+      "doi": "10.1061/jtepbs.teeng-9065",
+      "title": "A Convolutional Transformer Network for Vehicle Trajectory Prediction in Urban Traffic Scenarios",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "trajectory prediction"
+    },
+    {
+      "query_id": "D06",
+      "openalex_id": "https://openalex.org/W7172423835",
+      "doi": "10.1080/21680566.2026.2711069",
+      "title": "Cyber-attack-aware optimization for cooperative control of connected and autonomous vehicle platoons",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "autonomous vehicle"
+    },
+    {
+      "query_id": "D06",
+      "openalex_id": "https://openalex.org/W7118121341",
+      "doi": "10.1016/j.ress.2025.112183",
+      "title": "Enhanced metamodeling strategy for uncertainty quantification and reliability verification in heterogeneous connected and automated vehicle platoon control models",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "platoon"
+    },
+    {
+      "query_id": "D06",
+      "openalex_id": "https://openalex.org/W7124430856",
+      "doi": "10.1109/tits.2026.3651592",
+      "title": "A UAV-Assisted Coordination Framework for Emergency Vehicle Priority and CAV Speed Optimization in Hybrid Human–Machine Driving on Expressways",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "CAV"
+    },
+    {
+      "query_id": "D07",
+      "openalex_id": "https://openalex.org/W4415821027",
+      "doi": "10.1109/tits.2025.3625727",
+      "title": "An Automatic Extrinsic Calibration Method for mmWave Radar and Camera in Traffic Environment",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "extrinsic calibration"
+    },
+    {
+      "query_id": "D07",
+      "openalex_id": "https://openalex.org/W7118121341",
+      "doi": "10.1016/j.ress.2025.112183",
+      "title": "Enhanced metamodeling strategy for uncertainty quantification and reliability verification in heterogeneous connected and automated vehicle platoon control models",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "platoon"
+    },
+    {
+      "query_id": "D07",
+      "openalex_id": "https://openalex.org/W7147329837",
+      "doi": "10.1109/tits.2026.3678118",
+      "title": "Low-Cost Monocular End-to-End Autonomous Driving With Enhanced Interpretability",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_TOPIC_EXCLUDE",
+      "matched_term": "autonomous vehicle"
+    },
+    {
+      "query_id": "C01",
+      "openalex_id": "https://openalex.org/W7201879764",
+      "doi": "10.1061/jtepbs.teeng-9621",
+      "title": "Joint Optimization of CAV Trajectories and Signal Phase Control in Mixed Traffic at Signalized Intersections",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "CAV"
+    },
+    {
+      "query_id": "C02",
+      "openalex_id": "https://openalex.org/W7140305964",
+      "doi": "10.1016/j.trc.2026.105649",
+      "title": "Operationalizing flow-centric air traffic management with granular cells and dynamic handover times",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "air traffic"
+    },
+    {
+      "query_id": "C02",
+      "openalex_id": "https://openalex.org/W7163867790",
+      "doi": "10.1016/j.tra.2026.105097",
+      "title": "Assessing stakeholder impacts of capacity regulations and algorithmic capacity-on-demand mechanisms in European air traffic management: A network-level ECAC operational case study",
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "source_id": "S159637997",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "air traffic"
+    },
+    {
+      "query_id": "C02",
+      "openalex_id": "https://openalex.org/W7130422863",
+      "doi": "10.1016/j.trb.2026.103429",
+      "title": "Understanding congestion in airport surface operations using 3D fundamental diagrams",
+      "journal": "Transportation Research Part B: Methodological",
+      "source_id": "S96305778",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "airport surface"
+    },
+    {
+      "query_id": "C02",
+      "openalex_id": "https://openalex.org/W4405173224",
+      "doi": "10.1080/21680566.2026.2711065",
+      "title": "A CAV-based perimeter-free regional traffic control utilizing existing parking infrastructure",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "CAV"
+    },
+    {
+      "query_id": "C02",
+      "openalex_id": "https://openalex.org/W4414567978",
+      "doi": "10.1016/j.trb.2026.103564",
+      "title": "Is CAV participatory traffic control socially beneficial? Incentive mechanisms and policy design",
+      "journal": "Transportation Research Part B: Methodological",
+      "source_id": "S96305778",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "CAV"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W4412996703",
+      "doi": "10.1016/j.tra.2026.105038",
+      "title": "Assessing rail freight reliability under mixed-traffic conditions: The role of capacity allocation and traffic management policy",
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "source_id": "S159637997",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "rail freight"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7213293923",
+      "doi": "10.1016/j.ress.2026.113520",
+      "title": "IoT-enabled reliability optimization of low-altitude traffic networks under uncertain information",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "low-altitude traffic"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W4415821027",
+      "doi": "10.1109/tits.2025.3625727",
+      "title": "An Automatic Extrinsic Calibration Method for mmWave Radar and Camera in Traffic Environment",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "extrinsic calibration"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W4416756222",
+      "doi": "10.1109/tits.2025.3632976",
+      "title": "Discriminative Image Feature Extraction for Traffic Sign Detection in Road Inspection",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "traffic sign detection"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W4417002434",
+      "doi": "10.1109/tits.2025.3635279",
+      "title": "Peer Learning Approach to Unbiased Scene Graph Generation for Traffic Scene Understanding",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "traffic scene understanding"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W4416396859",
+      "doi": "10.1016/j.trc.2025.105426",
+      "title": "Adversarial traffic scene generation considering harm, rarity, and ambiguity for autonomous driving testing",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "traffic scene generation"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7163000021",
+      "doi": "10.1016/j.ress.2026.112946",
+      "title": "A causality-enhanced network framework for analyzing and governing systemic risk in air traffic control",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "air traffic"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7155095288",
+      "doi": "10.1016/j.ress.2026.112742",
+      "title": "Delay-induced arrival autocorrelation and its regime-dependent impact on port reliability",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "port reliability"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7118121341",
+      "doi": "10.1016/j.ress.2025.112183",
+      "title": "Enhanced metamodeling strategy for uncertainty quantification and reliability verification in heterogeneous connected and automated vehicle platoon control models",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "removed_reason": "SCIENTIFIC_SCOPE_CONDITIONAL_EXCLUDE",
+      "matched_term": "platoon"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7134217402",
+      "doi": "10.1049/itr2.70167",
+      "title": "Attention‐Guided Lightweight CNN‐Transformer Fusion for Real‐Time Traffic Sign Recognition in Adverse Environments: HACTNet",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "traffic sign recognition"
+    },
+    {
+      "query_id": "R01",
+      "openalex_id": "https://openalex.org/W7163867790",
+      "doi": "10.1016/j.tra.2026.105097",
+      "title": "Assessing stakeholder impacts of capacity regulations and algorithmic capacity-on-demand mechanisms in European air traffic management: A network-level ECAC operational case study",
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "source_id": "S159637997",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "air traffic"
+    },
+    {
+      "query_id": "R02",
+      "openalex_id": "https://openalex.org/W4416407408",
+      "doi": "10.1016/j.jtrangeo.2025.104454",
+      "title": "Assessment and optimization of shipping network resilience in the maritime silk road regions",
+      "journal": "Journal of Transport Geography",
+      "source_id": "S80150607",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "maritime"
+    },
+    {
+      "query_id": "X04",
+      "openalex_id": "https://openalex.org/W7163775526",
+      "doi": "10.1016/j.jtrangeo.2026.104727",
+      "title": "Assessing spatiotemporal accessibility and disparities in maritime search and rescue: A case study in cross-national responsibility waters of the East China Sea",
+      "journal": "Journal of Transport Geography",
+      "source_id": "S80150607",
+      "removed_reason": "SCIENTIFIC_SCOPE_HARD_EXCLUDE",
+      "matched_term": "maritime"
+    }
+  ],
+  "simulated_top10": [
+    {
+      "rank": 1,
+      "score": 21,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-06-15",
+      "title": "W-Diffusion: A Probabilistic Generative Framework for Traffic Forecasting via Shallow Diffusion Mechanism",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "doi": "10.1109/tits.2026.3695665",
+      "openalex_id": "https://openalex.org/W7164858134",
+      "query_ids": [
+        "F09",
+        "M01",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 21,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-03-19",
+      "title": "Emergency Events Traffic Flow Forecasting Using Text-Prompt-Guided Multimodal Large Language Models",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "doi": "10.1109/tits.2026.3672914",
+      "openalex_id": "https://openalex.org/W7139003023",
+      "query_ids": [
+        "D05",
+        "F03",
+        "F12"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "DATA / MULTISOURCE"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 21,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-03-06",
+      "title": "How to Accurately Forecast Highway Traffic Speed? A Self-Supervised Spatio-Temporal Bilateral Learning Network",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "doi": "10.1109/tits.2026.3667856",
+      "openalex_id": "https://openalex.org/W7134132861",
+      "query_ids": [
+        "F01",
+        "F02",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 21,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-01-01",
+      "title": "MAS‐Mamba: A Compact Missing‐Aware Selective State‐Space Model With Calibrated Uncertainty for Short‐Term Traffic Forecasting Under Sensor Outages",
+      "journal": "IET Intelligent Transport Systems",
+      "doi": "10.1049/itr2.70304",
+      "openalex_id": "https://openalex.org/W7172396211",
+      "query_ids": [
+        "F11",
+        "M02",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 21,
+      "relevance_class": "A_CORE",
+      "publication_date": "2025-12-11",
+      "title": "Traffic Flow Forecasting Methods Considering Meteorological Factors",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "doi": "10.1061/jtepbs.teeng-9315",
+      "openalex_id": "https://openalex.org/W4417240861",
+      "query_ids": [
+        "F03",
+        "F04",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 20,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-01-01",
+      "title": "A Multi‐Level Spatiotemporal and Abrupt‐change‐aware Fusion Model for Traffic Flow Forecasting",
+      "journal": "IET Intelligent Transport Systems",
+      "doi": "10.1049/itr2.70344",
+      "openalex_id": "https://openalex.org/W7214228212",
+      "query_ids": [
+        "F03",
+        "M01",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 20,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-04-07",
+      "title": "Multi-modal traffic flow joint prediction with a multi-source information knowledge graph",
+      "journal": "Transportmetrica A: Transport Science",
+      "doi": "10.1080/23249935.2026.2654754",
+      "openalex_id": "https://openalex.org/W7151739766",
+      "query_ids": [
+        "D03",
+        "D04",
+        "M05A"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "METHODS"
+      ]
+    },
+    {
+      "rank": 8,
+      "score": 19,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-09-19",
+      "title": "Short-Term Traffic Speed Prediction Integrating Traffic Flow Theory for Enhanced Urban Congestion Mitigation",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "doi": "10.1061/jtepbs.teeng-9834",
+      "openalex_id": "https://openalex.org/W7213641877",
+      "query_ids": [
+        "C02",
+        "F02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ]
+    },
+    {
+      "rank": 9,
+      "score": 19,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-04-15",
+      "title": "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "doi": "10.1016/j.tre.2026.104872",
+      "openalex_id": "https://openalex.org/W7154456502",
+      "query_ids": [
+        "F06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ]
+    },
+    {
+      "rank": 10,
+      "score": 19,
+      "relevance_class": "A_CORE",
+      "publication_date": "2026-06-05",
+      "title": "Connected Vehicle Trajectory–Based Estimation of Cycle-by-Cycle Traffic Volume: A Deep Learning–Based Approach Considering Slowed Vehicles and Spatiotemporal Shockwave Dissipation",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "doi": "10.1061/jtepbs.teeng-9582",
+      "openalex_id": "https://openalex.org/W7163649305",
+      "query_ids": [
+        "C04",
+        "D02",
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "openalex_id": "https://openalex.org/W7164858134",
+      "doi": "10.1109/tits.2026.3695665",
+      "title": "W-Diffusion: A Probabilistic Generative Framework for Traffic Forecasting via Shallow Diffusion Mechanism",
+      "publication_date": "2026-06-15",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F09",
+        "M01",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 13,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "probabilistic",
+        "spatiotemporal"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W7139003023",
+      "doi": "10.1109/tits.2026.3672914",
+      "title": "Emergency Events Traffic Flow Forecasting Using Text-Prompt-Guided Multimodal Large Language Models",
+      "publication_date": "2026-03-19",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D05",
+        "F03",
+        "F12"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "weather",
+        "long-term",
+        "spatio-temporal"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W7134132861",
+      "doi": "10.1109/tits.2026.3667856",
+      "title": "How to Accurately Forecast Highway Traffic Speed? A Self-Supervised Spatio-Temporal Bilateral Learning Network",
+      "publication_date": "2026-03-06",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F01",
+        "F02",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-step",
+        "long-term",
+        "spatiotemporal",
+        "spatio-temporal",
+        "transformer"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W7172396211",
+      "doi": "10.1049/itr2.70304",
+      "title": "MAS‐Mamba: A Compact Missing‐Aware Selective State‐Space Model With Calibrated Uncertainty for Short‐Term Traffic Forecasting Under Sensor Outages",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F11",
+        "M02",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 13,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "short-term",
+        "spatio-temporal",
+        "transformer",
+        "state space model"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W4417240861",
+      "doi": "10.1061/jtepbs.teeng-9315",
+      "title": "Traffic Flow Forecasting Methods Considering Meteorological Factors",
+      "publication_date": "2025-12-11",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F03",
+        "F04",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multisource",
+        "uncertainty",
+        "confidence",
+        "weather",
+        "meteorological",
+        "spatiotemporal"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167668785",
+      "doi": "10.1016/j.trc.2026.105854",
+      "title": "Unveiling stochasticity: Universal multi-modal probabilistic modeling for traffic forecasting",
+      "publication_date": "2026-07-08",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "F09",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-modal",
+        "uncertainty",
+        "probabilistic",
+        "spatio-temporal"
+      ],
+      "score": 21
+    },
+    {
+      "openalex_id": "https://openalex.org/W7214228212",
+      "doi": "10.1049/itr2.70344",
+      "title": "A Multi‐Level Spatiotemporal and Abrupt‐change‐aware Fusion Model for Traffic Flow Forecasting",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F03",
+        "M01",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 13,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal",
+        "graph neural network",
+        "transformer"
+      ],
+      "score": 20
+    },
+    {
+      "openalex_id": "https://openalex.org/W7210290017",
+      "doi": "10.1049/itr2.70311",
+      "title": "MSMT: A Memory‐Augmented Transformer With Multi‐Scale Spatio‐Temporal Modelling for Network‐Wide Traffic Flow Prediction",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F04",
+        "F10",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "confidence",
+        "spatio-temporal",
+        "transformer"
+      ],
+      "score": 20
+    },
+    {
+      "openalex_id": "https://openalex.org/W7151739766",
+      "doi": "10.1080/23249935.2026.2654754",
+      "title": "Multi-modal traffic flow joint prediction with a multi-source information knowledge graph",
+      "publication_date": "2026-04-07",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "D03",
+        "D04",
+        "M05A"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 12,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "multimodal",
+        "multi-modal",
+        "weather"
+      ],
+      "score": 20
+    },
+    {
+      "openalex_id": "https://openalex.org/W7163420875",
+      "doi": "10.1049/itr2.70248",
+      "title": "Accounting for Work Zone Disruptions in Traffic Flow Forecasting via Multi‐Channel Attention‐Based Spatio‐Temporal Graph Convolutional Networks",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F01",
+        "F03",
+        "M01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal",
+        "graph neural network"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7213641877",
+      "doi": "10.1061/jtepbs.teeng-9834",
+      "title": "Short-Term Traffic Speed Prediction Integrating Traffic Flow Theory for Enhanced Urban Congestion Mitigation",
+      "publication_date": "2026-09-19",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C02",
+        "F02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7210271054",
+      "doi": "10.1049/itr2.70313",
+      "title": "A Long‐Term Traffic Flow Prediction Method Based on Weather‐Grouped Temporal Feature Reconstruction",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F04",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "weather",
+        "meteorological",
+        "long-term",
+        "transformer"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416242184",
+      "doi": "10.1080/21680566.2025.2575959",
+      "title": "Decoupled spatiotemporal graph convolution with probabilistic sparse self-attention for traffic flow forecasting",
+      "publication_date": "2025-11-15",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "F03",
+        "F09"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 10,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probabilistic",
+        "short-term",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7154456502",
+      "doi": "10.1016/j.tre.2026.104872",
+      "title": "A Bayesian Markov mesh regime-switching regression model for bus travel time forecasting",
+      "publication_date": "2026-04-15",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "source_id": "S173966628",
+      "query_ids": [
+        "F06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "probabilistic",
+        "bus",
+        "travel time"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7163649305",
+      "doi": "10.1061/jtepbs.teeng-9582",
+      "title": "Connected Vehicle Trajectory–Based Estimation of Cycle-by-Cycle Traffic Volume: A Deep Learning–Based Approach Considering Slowed Vehicles and Spatiotemporal Shockwave Dissipation",
+      "publication_date": "2026-06-05",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C04",
+        "D02",
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 10,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "spatiotemporal"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7213250237",
+      "doi": "10.1016/j.trc.2026.106018",
+      "title": "TransMoE: Multimodal traffic prediction with large language model and mixture of experts",
+      "publication_date": "2026-09-15",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "D04",
+        "D05"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 8,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "spatiotemporal"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7163559785",
+      "doi": "10.1080/23249935.2026.2679545",
+      "title": "Heterogeneous fixed sensor data fusion based on interpolation and deep learning for freeway traffic state estimation",
+      "publication_date": "2026-06-04",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "C04",
+        "D03"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "weather",
+        "short-term",
+        "transformer"
+      ],
+      "score": 19
+    },
+    {
+      "openalex_id": "https://openalex.org/W7118530442",
+      "doi": "10.1016/j.aej.2025.12.055",
+      "title": "Graph-based spatial-temporal networks for traffic speed prediction in intelligent transport systems",
+      "publication_date": "2026-01-01",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "F01",
+        "F02",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 14,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "long-term",
+        "transformer"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7203573652",
+      "doi": "10.1061/jtepbs.teeng-9363",
+      "title": "Adaptive Diffused Spatiotemporal Graph Convolution for Traffic Flow Forecasting",
+      "publication_date": "2026-08-16",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F03",
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 10,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7156206424",
+      "doi": "10.1109/tits.2026.3685287",
+      "title": "Multi-Scale Spatiotemporal-Enhanced Network for Multimodal Traffic Flow Joint Prediction",
+      "publication_date": "2026-04-27",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D04",
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "spatiotemporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125595678",
+      "doi": "10.1061/jtepbs.teeng-9006",
+      "title": "Regional Bus Travel Time Prediction Using Graph Neural Networks",
+      "publication_date": "2026-01-24",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F05",
+        "M01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "bus",
+        "travel time",
+        "spatiotemporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W4417298907",
+      "doi": "10.1080/21680566.2025.2586719",
+      "title": "MSDA-DiffNet: traffic flow prediction via multi-scale feature fusion and dual adaptive graph convolution with conditional diffusion",
+      "publication_date": "2025-12-13",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04",
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "probabilistic",
+        "spatiotemporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7163882427",
+      "doi": "10.1109/tits.2026.3698123",
+      "title": "Adap-STWT: Real-Time Traffic Flow Prediction Based on Multi-Scale Graph Adaptive Fusion and Spatio-Temporal Wavelet Transformer",
+      "publication_date": "2026-06-08",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-step",
+        "spatio-temporal",
+        "transformer"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7135025839",
+      "doi": "10.1016/j.trc.2026.105617",
+      "title": "Deep structured Gaussian modeling for Real-Time probabilistic bus travel time prediction",
+      "publication_date": "2026-03-11",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "F05"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "probabilistic",
+        "bus",
+        "travel time",
+        "spatiotemporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7119607974",
+      "doi": "10.1049/itr2.70145",
+      "title": "XGBoost–LSTM Regional Traffic Congestion Ratio Prediction Integrating Spatio‐Temporal and Weather Features",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C02",
+        "D03"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "weather",
+        "meteorological",
+        "short-term",
+        "spatio-temporal"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7160423274",
+      "doi": "10.1016/j.trc.2026.105720",
+      "title": "Schedule adherence oriented traffic signal control for large-scale scheduled vehicle operations: A multi-agent reinforcement learning approach",
+      "publication_date": "2026-05-06",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C01",
+        "C02",
+        "R01"
+      ],
+      "query_groups": [
+        "MANAGEMENT",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 7,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time",
+        "transformer"
+      ],
+      "score": 18
+    },
+    {
+      "openalex_id": "https://openalex.org/W7165053227",
+      "doi": "10.1080/23249935.2026.2689600",
+      "title": "Physics-constrained multi-parameter lane-level traffic prediction from surveillance videos",
+      "publication_date": "2026-06-17",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "C02",
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162306276",
+      "doi": "10.1061/jtepbs.teeng-9452",
+      "title": "Variational Autoencoder–Generative Adversarial Network Traffic Prediction with Ramps",
+      "publication_date": "2026-05-25",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F04",
+        "F09"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 10,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probabilistic"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7160385229",
+      "doi": "10.1016/j.aej.2026.04.045",
+      "title": "Spatio-temporal few-shot traffic flow prediction based on transfer learning and graph convolutional neural networks",
+      "publication_date": "2026-04-30",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "F04",
+        "M03"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "transfer learning",
+        "spatio-temporal"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167687223",
+      "doi": "10.1109/tits.2026.3708746",
+      "title": "Acceleration-Enriched Input Preprocessing for Traffic Speed Forecasting: A Dual-Channel Framework",
+      "publication_date": "2026-01-01",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F01",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal",
+        "transformer"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7105991323",
+      "doi": "10.1109/tits.2025.3632402",
+      "title": "A Spatiotemporal Graph Attention-Based Traffic Speed Prediction Method With Bayesian Optimization and Evolutionary Algorithm Mutual Feedback Optimization",
+      "publication_date": "2025-11-19",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02",
+        "F02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term",
+        "spatiotemporal"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415003053",
+      "doi": "10.1109/tits.2025.3612204",
+      "title": "Dynamic Spatio-Temporal Attention-Based Graph Neural Network Using Ordinary Differential Equation and Multi-Scale Semantics for Traffic Prediction",
+      "publication_date": "2025-10-09",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F04",
+        "M01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal",
+        "graph neural network"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414923831",
+      "doi": "10.1080/23249935.2025.2565379",
+      "title": "Landformer: years ahead long-term traffic forecasting with land use information",
+      "publication_date": "2025-10-07",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "F12",
+        "M02"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "long-term",
+        "transformer"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7204001747",
+      "doi": "10.1049/itr2.70243",
+      "title": "Multi‐Step Ahead Traffic State Prediction Using a Stochastic Residual Long Short‐Term Memory and Temporal Dilated Attention Mechanism",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F07"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-step",
+        "short-term",
+        "long-term"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416015782",
+      "doi": "10.1016/j.trc.2025.105420",
+      "title": "A Physics-Informed Deep learning framework for traffic state estimation in signalized arterial roads",
+      "publication_date": "2025-11-07",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C02",
+        "C04",
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 8,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415337201",
+      "doi": "10.1016/j.trc.2026.105809",
+      "title": "Q-Net: Queue length estimation via Kalman-based neural networks",
+      "publication_date": "2026-06-17",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04",
+        "D01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Network Traffic and Congestion Control",
+      "subfield": "Computer Networks and Communications",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "floating car data",
+        "floating-car data"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7160927867",
+      "doi": "10.1016/j.trc.2026.105729",
+      "title": "Empirical distribution of probe vehicle penetration rates and implications for traffic state estimation",
+      "publication_date": "2026-05-12",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04",
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "spatiotemporal"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416707163",
+      "doi": "10.1109/tits.2025.3633930",
+      "title": "Multi-Source Transfer Learning With Spatial-Temporal Graph Neural Network for Short-Term Bicycle Traffic Prediction",
+      "publication_date": "2025-11-26",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "M03"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "transfer learning",
+        "short-term",
+        "graph neural network"
+      ],
+      "score": 17
+    },
+    {
+      "openalex_id": "https://openalex.org/W7164863513",
+      "doi": "10.1109/tits.2026.3696998",
+      "title": "DSTIGFN: Dynamic Spatio-Temporal Interactive Graph Fusion Network for Traffic Flow Prediction",
+      "publication_date": "2026-06-15",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7154099775",
+      "doi": "10.1016/j.trc.2026.105685",
+      "title": "Adaptive graph-Aware contrasting for heterogeneous traffic flow forecasting",
+      "publication_date": "2026-04-13",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "F03"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7140318468",
+      "doi": "10.1109/tetci.2026.3670662",
+      "title": "Spatiotemporal Traffic Speed Forecasting via Conditional Flow-Based Generative Deep Learning With Dynamic Graph Pooling",
+      "publication_date": "2026-03-25",
+      "journal": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "source_id": "S4210210251",
+      "query_ids": [
+        "F01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "generalization",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7204632880",
+      "doi": "10.1049/itr2.70315",
+      "title": "Fusion State Space Model with Mixed Graph Learner for Long‐Term Traffic Flow Prediction",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "long-term",
+        "state space model"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415664384",
+      "doi": "10.1080/23249935.2025.2578229",
+      "title": "Spatio-temporal dynamic masking and direction-aware dynamic graph convolution for traffic prediction",
+      "publication_date": "2025-10-29",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "F03"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "weather",
+        "spatio-temporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7118234103",
+      "doi": "10.1016/j.trc.2025.105504",
+      "title": "Multi-reservoir traffic dynamics: Outflow network MFD and state estimation with sparse traffic data",
+      "publication_date": "2026-01-08",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04",
+        "D01",
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 10,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "floating car data",
+        "floating-car data",
+        "FCD",
+        "probe vehicle"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415593698",
+      "doi": "10.1109/tits.2025.3611518",
+      "title": "R 2 Com: Reliable and Resilient Communication in Duty-Cycled SDN-Based WSN for Urban Traffic Monitoring in Intelligent Transportation Systems",
+      "publication_date": "2025-10-27",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02",
+        "D07",
+        "R01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 9,
+      "matched_query_count": 3,
+      "primary_topic": "Energy Efficient Wireless Sensor Networks",
+      "subfield": "Computer Networks and Communications",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167693596",
+      "doi": "10.1061/jtepbs.teeng-9906",
+      "title": "Hopf Bifurcation Control Based on a Stochastic Traffic Flow Model",
+      "publication_date": "2026-07-08",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C02",
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7117255856",
+      "doi": "10.1109/tits.2025.3646969",
+      "title": "A Dynamic Unmanned Aerial Vehicle Routing Framework for Urban Traffic Monitoring",
+      "publication_date": "2025-12-25",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "UAV Applications and Optimization",
+      "subfield": "Aerospace Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7204139924",
+      "doi": "10.1016/j.trc.2026.105961",
+      "title": "Uncertainty quantification for traffic state estimation at signalized intersections with low penetration vehicle trajectory data",
+      "publication_date": "2026-08-24",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04",
+        "R01"
+      ],
+      "query_groups": [
+        "MANAGEMENT",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 5,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7214987351",
+      "doi": "10.1016/j.ress.2026.113578",
+      "title": "Generative modeling and reinforcement learning for road network resilience optimization under rainfall-induced landslides",
+      "publication_date": "2026-09-30",
+      "journal": "Reliability Engineering & System Safety",
+      "source_id": "S202403813",
+      "query_ids": [
+        "R02"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Landslides and related hazards",
+      "subfield": "Management, Monitoring, Policy and Law",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probabilistic",
+        "rainfall"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7214605014",
+      "doi": "10.1016/j.trc.2026.106032",
+      "title": "High-resolution spatiotemporal freeway traffic state estimation under sparse observations using METANET-EnKF data assimilation",
+      "publication_date": "2026-09-28",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "spatiotemporal"
+      ],
+      "score": 16
+    },
+    {
+      "openalex_id": "https://openalex.org/W7134284724",
+      "doi": "10.1016/j.aej.2026.03.007",
+      "title": "A spatio-temporal synchronous graph machine learning for prediction and optimization of regional traffic flow",
+      "publication_date": "2026-03-09",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "F04",
+        "M01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7124466725",
+      "doi": "10.1109/tits.2026.3652367",
+      "title": "Probabilistic Forecasting of Long-Term Origin-Destination Demands: An Interpretable Bayesian Framework for Periodicity and Residual Learning",
+      "publication_date": "2026-01-15",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "F09",
+        "M06"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "METHODS"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 9,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty",
+        "probabilistic",
+        "short-term",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415665262",
+      "doi": "10.1080/15472450.2025.2577735",
+      "title": "Road traffic attributes prediction using deep learning hybridization by the traffic fundamental diagram",
+      "publication_date": "2025-10-29",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "C02",
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125714643",
+      "doi": "10.1049/itr2.70144",
+      "title": "A Novel Attention‐Weighted VMD‐LSSVM Model for High‐Accuracy Short‐Term Traffic Prediction",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7109074312",
+      "doi": "10.1016/j.trc.2025.105474",
+      "title": "Game-theoretic incentives for federated learning in traffic prediction: Balancing resource allocation and prediction accuracy via Stackelberg contracts",
+      "publication_date": "2025-12-06",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "transformer"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416424644",
+      "doi": "10.1061/jtepbs.teeng-9049",
+      "title": "Effect of Time Intervals on Short-Term Traffic Flow Prediction Performance for an Adaptive Fuzzy Inference System Approach",
+      "publication_date": "2025-11-20",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7126044743",
+      "doi": "10.1016/j.aej.2026.01.010",
+      "title": "Intelligent traffic management with Mamba-ATSP: Optimizing signal control and path planning using multi-modal data fusion",
+      "publication_date": "2026-01-29",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "C01",
+        "D03"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "multi-modal"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W4391054335",
+      "doi": "10.1061/jtepbs.teeng-8600",
+      "title": "Evaluating the Need for Traffic Signal Retiming Using Connected Vehicle Data",
+      "publication_date": "2026-06-21",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7155526549",
+      "doi": "10.1109/tits.2026.3682251",
+      "title": "Channel-Independence for Traffic Forecasting: A Cascaded Spatio-Temporal MLP Framework",
+      "publication_date": "2026-04-24",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "M01"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7128919652",
+      "doi": "10.1016/j.tra.2026.104927",
+      "title": "Short-term lagged interactions between freight and passenger volumes in urban traffic: inter- and intra-modal effects with explainable machine learning",
+      "publication_date": "2026-02-14",
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "source_id": "S159637997",
+      "query_ids": [
+        "D05"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Urban and Freight Transport Logistics",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "short-term"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167819727",
+      "doi": "10.1016/j.trb.2026.103544",
+      "title": "A stochastic queueing model for travel time reliability with spatial density heterogeneity",
+      "publication_date": "2026-07-09",
+      "journal": "Transportation Research Part B: Methodological",
+      "source_id": "S96305778",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Advanced Queuing Theory Analysis",
+      "subfield": "Management Information Systems",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162866672",
+      "doi": "10.1061/jtepbs.teeng-9190",
+      "title": "Effectiveness of Travel Time Reliability as a Measure of a Level of Service for Urban Roads",
+      "publication_date": "2026-05-30",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic and Road Safety",
+      "subfield": "Safety, Risk, Reliability and Quality",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "travel time"
+      ],
+      "score": 15
+    },
+    {
+      "openalex_id": "https://openalex.org/W7168023741",
+      "doi": "10.1061/jtepbs.teeng-9529",
+      "title": "A Predictive–Prescriptive Analytics Framework forRoute Planning via Discrete Time–SpaceGraph and ST-GCN-GRU Model",
+      "publication_date": "2026-07-11",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "F01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term",
+        "spatiotemporal"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7119157842",
+      "doi": "10.1080/21680566.2025.2612243",
+      "title": "APSO-enhanced algebraic derivative estimation approach for real-time traffic flow prediction on critical road sections during wildfire evacuation",
+      "publication_date": "2026-01-08",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Evacuation and Crowd Dynamics",
+      "subfield": "Ocean Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7212192347",
+      "doi": "10.1049/itr2.70327",
+      "title": "Correlation Analysis‐SSARF Integration for Traffic Flow Prediction With Interpretability",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F04"
+      ],
+      "query_groups": [
+        "CORE FORECASTING"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167724551",
+      "doi": "10.1016/j.trc.2026.105853",
+      "title": "Improving coordinated actuated control performance by measuring “early return to green” using probe vehicle data",
+      "publication_date": "2026-07-08",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Vehicle Dynamics and Control Systems",
+      "subfield": "Automotive Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "probabilistic",
+        "travel time"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7124159940",
+      "doi": "10.1109/tits.2026.3651290",
+      "title": "UTDT: A Baseline Benchmark for Urban Traffic Flow Digital Twins via Roadside LiDAR–Camera Fusion",
+      "publication_date": "2026-01-14",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D03"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7117470147",
+      "doi": "10.1109/tits.2025.3647158",
+      "title": "Cross-City Correlation Learning for Traffic Forecasting",
+      "publication_date": "2025-12-29",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "M04"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "cross-city"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W4405654787",
+      "doi": "10.1061/jtepbs.teeng-9253",
+      "title": "Congestion Propagation Identification and Prediction Using Self Attention–Based Diffusion Convolutional Approach",
+      "publication_date": "2026-08-29",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7204144092",
+      "doi": "10.1080/21680566.2026.2717537",
+      "title": "Integrated movement-level traffic arrival prediction and signal control optimization using AVI data",
+      "publication_date": "2026-08-23",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7140098097",
+      "doi": "10.1109/tits.2026.3673039",
+      "title": "Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting",
+      "publication_date": "2026-03-23",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Privacy-Preserving Technologies in Data",
+      "subfield": "Artificial Intelligence",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416222440",
+      "doi": "10.1109/tits.2025.3628554",
+      "title": "Dynamic Spatiotemporal Graph Convolutional Neural Network Based on Congestion Propagation for Traffic Prediction",
+      "publication_date": "2025-11-12",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-horizon",
+        "spatiotemporal",
+        "graph neural network"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W7104535704",
+      "doi": "10.1109/tits.2025.3626524",
+      "title": "Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction",
+      "publication_date": "2025-11-10",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term",
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 14
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416127803",
+      "doi": "10.1061/jtepbs.teeng-9297",
+      "title": "Connected Vehicle Data for Freeway Congestion Analysis: Necessity versus Luxury for Transportation Engineers",
+      "publication_date": "2025-11-12",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C02",
+        "D02",
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 10,
+      "matched_query_count": 3,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416010486",
+      "doi": "10.1109/tits.2025.3626994",
+      "title": "Optimization of Urban Emergency Multimodal Transportation Scheduling With UAV-Ground Traffic Coordination",
+      "publication_date": "2025-11-07",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D04",
+        "R01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "UAV Applications and Optimization",
+      "subfield": "Aerospace Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "multi-modal",
+        "spatiotemporal"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7172254598",
+      "doi": "10.1061/jtepbs.teeng-9741",
+      "title": "MulDet3D: Multiobjective Optimization-Based Unsupervised Object Detection for Multiple Roadside LiDARs",
+      "publication_date": "2026-08-03",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "D07"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Advanced Neural Network Applications",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "generalization",
+        "weather"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7160135731",
+      "doi": "10.1016/j.jtrangeo.2026.104692",
+      "title": "Spatial analysis of the hinterlands of container terminals",
+      "publication_date": "2026-04-30",
+      "journal": "Journal of Transport Geography",
+      "source_id": "S80150607",
+      "query_ids": [
+        "D01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Maritime Ports and Logistics",
+      "subfield": "Industrial and Manufacturing Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "floating car data",
+        "floating-car data",
+        "FCD"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7212071498",
+      "doi": "10.1080/21680566.2026.2730187",
+      "title": "A decision-oriented risk prioritization framework for traffic crash management using explainable machine learning and economic impact analysis",
+      "publication_date": "2026-09-09",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic and Road Safety",
+      "subfield": "Safety, Risk, Reliability and Quality",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probabilistic",
+        "calibration"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7124436445",
+      "doi": "10.1109/tits.2025.3649971",
+      "title": "Metamorphic Testing for Vision-Based Autonomous Driving With Road Traffic Risk Exposure Extrapolation",
+      "publication_date": "2026-01-16",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Autonomous Vehicle Technology and Safety",
+      "subfield": "Automotive Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "domain adaptation"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7166463861",
+      "doi": "10.1061/jtepbs.teeng-9437",
+      "title": "Novel Machine Learning Driven Framework for Dynamic Perspective Correction in Vision-Based Traffic Speed Estimation",
+      "publication_date": "2026-06-28",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "calibration"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415821150",
+      "doi": "10.1109/tits.2025.3624395",
+      "title": "TriDGNet: Triple Feature Encoder-Based Dual Granularity Graph Learning Network for Enhanced Travel Time Estimation",
+      "publication_date": "2025-11-03",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time",
+        "spatio-temporal"
+      ],
+      "score": 13
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161548066",
+      "doi": "10.1049/itr2.70234",
+      "title": "TrafTrust‐Fed: Traffic‐Trust Federated Learning with Fuzzy Inference.",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "F11",
+        "R01"
+      ],
+      "query_groups": [
+        "CORE FORECASTING",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 8,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7202093198",
+      "doi": "10.1080/15472450.2026.2707513",
+      "title": "A hybrid connected and autonomous vehicles trajectory optimization for on-ramp freeway merging in mixed vehicular traffic environment",
+      "publication_date": "2026-08-10",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "D06",
+        "R01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415003016",
+      "doi": "10.1109/tits.2025.3614270",
+      "title": "Leveraging Spatial–Temporal Heterogeneity and Cross-Mode Interactions: A Meta-Learning Approach for Multimodal Transportation Demand Prediction",
+      "publication_date": "2025-10-09",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D04",
+        "M05A"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 8,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "cross-city"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7204605781",
+      "doi": "10.1080/15472450.2026.2669869",
+      "title": "A new class of speed harmonization strategy with adaptive boundaries: a model predictive control approach in a mixed traffic environment",
+      "publication_date": "2026-08-28",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167601340",
+      "doi": "10.1080/15472450.2026.2694716",
+      "title": "Leveraging connected vehicle data for roadway safety evaluation and management: segment- and intersection-level driving volatility analysis",
+      "publication_date": "2026-07-07",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic and Road Safety",
+      "subfield": "Safety, Risk, Reliability and Quality",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416011496",
+      "doi": "10.1016/j.tra.2026.105023",
+      "title": "Event-aware analysis of cross-city visitor flows using large language models and social media data",
+      "publication_date": "2026-04-20",
+      "journal": "Transportation Research Part A: Policy and Practice",
+      "source_id": "S159637997",
+      "query_ids": [
+        "M05A"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Digital Marketing and Social Media",
+      "subfield": "Sociology and Political Science",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "cross-city"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125515360",
+      "doi": "10.1061/jtepbs.teeng-9465",
+      "title": "Movement-Wise Delay Distribution Estimation at Signalized Intersections Using Mixture Density Networks and Connected Vehicle Trajectories",
+      "publication_date": "2026-01-23",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "travel time",
+        "spatiotemporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7140211665",
+      "doi": "10.1049/itr2.70171",
+      "title": "The Relevance of Heterogeneous Floating Car Data for Macroscopic Fundamental Diagram Analysis",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "D01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "floating car data",
+        "floating-car data",
+        "FCD"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4417424303",
+      "doi": "10.1080/23249935.2025.2602013",
+      "title": "Novel weather severity classifications based on speed reductions utilizing machine learning techniques",
+      "publication_date": "2025-12-17",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Hydrological Forecasting Using AI",
+      "subfield": "Environmental Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "weather",
+        "meteorological"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415743147",
+      "doi": "10.1016/j.aej.2025.10.032",
+      "title": "STMO: A spatio-temporal multimodal optimization algorithm for optimizing electric vehicle charging scheduling and station layout",
+      "publication_date": "2025-10-31",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "D04"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Electric Vehicles and Infrastructure",
+      "subfield": "Electrical and Electronic Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "weather",
+        "meteorological",
+        "short-term",
+        "spatio-temporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7154607916",
+      "doi": "10.1109/tits.2026.3674034",
+      "title": "Traffic Flow Phase Transition at Bottleneck Sections Based on Driving Feedback Delay and Connected Density Difference Feedback Under Cyber-Attack Conditions",
+      "publication_date": "2026-01-01",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7214553724",
+      "doi": "10.1061/jtepbs.teeng-9747",
+      "title": "GNN-Based Urban Congestion Prediction Considering Congestion Prior Knowledge",
+      "publication_date": "2026-09-27",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "long-term",
+        "spatiotemporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7214335883",
+      "doi": "10.1080/21680566.2026.2737224",
+      "title": "Data-driven traffic signal optimisation with random forest and ESO-based model-free adaptive iterative learning control",
+      "publication_date": "2026-09-25",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7169782949",
+      "doi": "10.1080/21680566.2026.2693296",
+      "title": "Multi-objective traffic signal control considering pedestrian crossings via constraints-decoupled reinforcement learning",
+      "publication_date": "2026-07-19",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "generalization"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167028837",
+      "doi": "10.1061/jtepbs.teeng-9516",
+      "title": "Spatial–Temporal Interaction–Aware Multiagent Reinforcement Learning for Traffic Signal Control",
+      "publication_date": "2026-07-02",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time",
+        "spatiotemporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7150840806",
+      "doi": "10.1109/tits.2026.3664174",
+      "title": "Traffic Signal-Vehicle Cooperative Control via Multimodal Heterogeneous Subgraph Learning",
+      "publication_date": "2026-04-06",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source",
+        "multimodal",
+        "spatiotemporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7139118635",
+      "doi": "10.1080/21680566.2026.2645186",
+      "title": "Knowledge reasoning deep learning network for traffic state estimation under sparse data",
+      "publication_date": "2026-03-19",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4417244268",
+      "doi": "10.1080/21680566.2025.2595549",
+      "title": "Physics-informed deep operator network for traffic state estimation",
+      "publication_date": "2025-12-11",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Software-Defined Networks and 5G",
+      "subfield": "Computer Networks and Communications",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7104570610",
+      "doi": "10.1109/tits.2025.3616119",
+      "title": "A Multi-Objective Model for Traffic Signal Coordination Control With Queue Profile Estimation",
+      "publication_date": "2025-11-10",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416015775",
+      "doi": "10.1016/j.trc.2025.105422",
+      "title": "Knowledge-data fusion oriented traffic state estimation: A stochastic physics-informed deep learning approach",
+      "publication_date": "2025-11-07",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415179034",
+      "doi": "10.1109/tits.2025.3610911",
+      "title": "Network-Wide Freeway Traffic Estimation Using Sparse Sensor Data: A Dirichlet Graph Auto-Encoder Approach",
+      "publication_date": "2025-10-14",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "cross-city"
+      ],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7131863019",
+      "doi": "10.1109/tits.2026.3659755",
+      "title": "Robust Tensor Completion via Gradient Tensor Nuclear ℓ 1 - ℓ 2 Norm for Traffic Data Recovery",
+      "publication_date": "2026-02-27",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D07",
+        "R01"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE",
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 7,
+      "matched_query_count": 2,
+      "primary_topic": "Tensor decomposition and applications",
+      "subfield": "Computational Mathematics",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7106537463",
+      "doi": "10.1016/j.trc.2025.105458",
+      "title": "M2NN: Multi-view multi-task graph neural network using congestion heatmap imagery for predicting traffic incidents across heterogeneous areas",
+      "publication_date": "2025-11-25",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C02",
+        "M01"
+      ],
+      "query_groups": [
+        "MANAGEMENT",
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 6,
+      "matched_query_count": 2,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "graph neural network"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4403786386",
+      "doi": "10.1016/j.trc.2026.105792",
+      "title": "Physics enhanced residual policy learning (PERPL) for safety cruising in mixed traffic platooning under actuator and communication delay",
+      "publication_date": "2026-06-10",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "generalization"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415238636",
+      "doi": "10.1016/j.trc.2026.105707",
+      "title": "Learning to learn the macroscopic fundamental diagram using physics-informed and model agnostic machine learning",
+      "publication_date": "2026-05-07",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "M03"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Machine Learning and Data Classification",
+      "subfield": "Artificial Intelligence",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "transfer learning"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7143356360",
+      "doi": "10.1061/jtepbs.teeng-9217",
+      "title": "Leveraging Multisource Data for a Comprehensive Investigation of Split Failure Occurrences",
+      "publication_date": "2026-03-30",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "multisource"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7211932091",
+      "doi": "10.1049/itr2.70328",
+      "title": "An Enhanced Multilayer Machine Learning Framework With Spatio‐Temporal Learning and Explainable AI for IoT‐Enabled Smart Parking Prediction and Behaviour Analysis",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "M05A"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Smart Parking Systems Research",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "cross-city",
+        "spatio-temporal"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7147403035",
+      "doi": "10.1049/itr2.70203",
+      "title": "Fusion of Connected Vehicle Data From Multiple Suppliers Estimating Tire‐Road Friction",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Vehicle Dynamics and Control Systems",
+      "subfield": "Automotive Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data",
+        "weather"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416306420",
+      "doi": "10.1080/21680566.2025.2582570",
+      "title": "Path flow reconstruction under sparse automatic vehicle identification coverage and limited probe vehicle penetration",
+      "publication_date": "2025-11-18",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle",
+        "spatio-temporal"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416582761",
+      "doi": "10.1109/tits.2025.3633688",
+      "title": "Generative Adversarial Pre-Training Enabled Spatial–Temporal Graph Modeling of Traffic Data",
+      "publication_date": "2025-11-24",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "long-term",
+        "spatiotemporal",
+        "graph neural network"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7172415175",
+      "doi": "10.1061/jtepbs.teeng-9800",
+      "title": "Research on Road Traffic State Reconstruction Using License Plate Recognition Data",
+      "publication_date": "2026-08-04",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7169047450",
+      "doi": "10.1016/j.trc.2026.105856",
+      "title": "A multi-agent deep reinforcement learning framework for coordinated urban traffic signal and parking lot exit control",
+      "publication_date": "2026-07-16",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Smart Parking Systems Research",
+      "subfield": "Building and Construction",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7116719794",
+      "doi": "10.1109/tits.2025.3642303",
+      "title": "Physics-Informed Deep Learning for Traffic State Estimation on Freeways: A Comprehensive Comparative Study",
+      "publication_date": "2025-12-22",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416177831",
+      "doi": "10.1109/tits.2025.3629415",
+      "title": "ETLight: An Evolution Transformer for Efficient Traffic Signal Control",
+      "publication_date": "2025-11-13",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "travel time",
+        "transformer"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415789061",
+      "doi": "10.1080/15472450.2025.2578670",
+      "title": "Using deep learning methods to optimize freeway traffic flow sensor spacing based on empirical data",
+      "publication_date": "2025-11-03",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "short-term",
+        "transformer"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415596622",
+      "doi": "10.1016/j.trc.2025.105391",
+      "title": "A multi-agent reinforcement learning framework for integrated traffic signal control and dynamic bus lane access management",
+      "publication_date": "2025-10-27",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multimodal",
+        "bus"
+      ],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415260565",
+      "doi": "10.1080/21680566.2025.2564701",
+      "title": "A physics-informed traffic state estimation model for freeways under sparse observation data",
+      "publication_date": "2025-10-16",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 11
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162500971",
+      "doi": "10.1109/tits.2026.3694599",
+      "title": "Sketching the Dynamics of Traffic: Data-Efficient Predictive Connected Cruise Control",
+      "publication_date": "2026-05-27",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161306767",
+      "doi": "10.1080/15472450.2026.2669483",
+      "title": "Decentralized signal predictive control with real-time detection-based vehicle trajectory data",
+      "publication_date": "2026-05-15",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Advanced Control Systems Optimization",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7154363428",
+      "doi": "10.1109/tits.2026.3682623",
+      "title": "An Energy-Efficient Lyapunov-Based Cooperative Adaptive Cruise Controller for Electric Vehicles",
+      "publication_date": "2026-04-27",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W4403707307",
+      "doi": "10.1016/j.jtrangeo.2026.104645",
+      "title": "Leveraging connected vehicle data for near-crash detection and analysis in urban environments",
+      "publication_date": "2026-04-07",
+      "journal": "Journal of Transport Geography",
+      "source_id": "S80150607",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Vehicular Ad Hoc Networks (VANETs)",
+      "subfield": "Electrical and Electronic Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7118189522",
+      "doi": "10.1080/15472450.2025.2603541",
+      "title": "Vehicle detection and classification from mobile LIDAR sensors",
+      "publication_date": "2026-01-05",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "D02"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Advanced Optical Sensing Technologies",
+      "subfield": "Instrumentation",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "probe vehicle"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416759941",
+      "doi": "10.1016/j.trd.2025.105131",
+      "title": "Before–after study of pavement roughness impact on vehicle fuel consumption and emissions",
+      "publication_date": "2025-11-28",
+      "journal": "Transportation Research Part D: Transport and Environment",
+      "source_id": "S45181156",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Vehicle emissions and performance",
+      "subfield": "Automotive Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "connected vehicle data"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415482405",
+      "doi": "10.1109/tits.2025.3622917",
+      "title": "Multi-Scale Reinforcement Learning of Dynamic Energy Controller for Connected Electrified Vehicles",
+      "publication_date": "2025-10-23",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Electric Vehicles and Infrastructure",
+      "subfield": "Electrical and Electronic Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-horizon"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7160334418",
+      "doi": "10.1016/j.aej.2026.04.025",
+      "title": "Traffic flow signal control and optimization based on multi-agent deep reinforcement learning",
+      "publication_date": "2026-05-01",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "generalization"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7128595276",
+      "doi": "10.1080/21680566.2026.2628695",
+      "title": "A machine-learning approach for traffic state classification tackling spatial heterogeneity",
+      "publication_date": "2026-02-11",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Internet Traffic Analysis and Secure E-voting",
+      "subfield": "Artificial Intelligence",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "cross-city"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7124168330",
+      "doi": "10.1109/tits.2026.3651721",
+      "title": "An End-to-End Traffic Signal Control Approach Driven by Fixed-Location Detector Occupancy Patterns Under Demand Uncertainty",
+      "publication_date": "2026-01-14",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7130614428",
+      "doi": "10.1109/tits.2026.3662740",
+      "title": "A Cognitive-Informed Car-Following Strategy for Intelligent Connected Vehicles Considering Driver Physiological Activation",
+      "publication_date": "2026-02-19",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7128680676",
+      "doi": "10.1109/tits.2026.3661951",
+      "title": "Scalable Cooperative Maneuvering Using Conflict Analysis: Merging in Mixed Traffic",
+      "publication_date": "2026-02-12",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7118165755",
+      "doi": "10.1109/tits.2025.3647284",
+      "title": "Enhancing Trust Management System for Connected Autonomous Vehicles Using Machine Learning Methods: A Survey",
+      "publication_date": "2026-01-05",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Vehicular Ad Hoc Networks (VANETs)",
+      "subfield": "Electrical and Electronic Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7151527370",
+      "doi": "10.1049/itr2.70196",
+      "title": "Eco‐Driving and Energy Management for Connected Hybrid Hub Motor Electric Vehicles: A Hierarchical Approach in Multi‐Signalised Traffic Intersections",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Electric and Hybrid Vehicle Technologies",
+      "subfield": "Automotive Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7125095021",
+      "doi": "10.1049/itr2.70149",
+      "title": "Integrated‐Hybrid Framework for Connected Vehicles Micro‐ and Macroscopic Highway Merging Control Using Combined Data‐and‐Model‐Driven Approaches",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W4403621094",
+      "doi": "10.1109/tits.2026.3727135",
+      "title": "Safe and Stable Connected Cruise Control for Connected Automated Vehicles With Response Lag",
+      "publication_date": "2026-01-01",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "D06"
+      ],
+      "query_groups": [
+        "DATA / MULTISOURCE"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415623121",
+      "doi": "10.1080/15472450.2025.2576935",
+      "title": "Android application-based automated prediction for green transportation mode detection: architecture, challenges and results",
+      "publication_date": "2025-10-28",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "M03"
+      ],
+      "query_groups": [
+        "METHODS"
+      ],
+      "query_priority_max": 4,
+      "query_priority_sum": 4,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7166085999",
+      "doi": "10.1016/j.trc.2026.105832",
+      "title": "Network-wide spatiotemporal speed and flow estimation under recurrent and non-recurrent traffic conditions: A physics-informed computational graph framework",
+      "publication_date": "2026-06-26",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7135231512",
+      "doi": "10.1109/tits.2026.3670387",
+      "title": "OAlight: Overflow-Aware Adaptive Traffic Signal Control via State-Wise Reinforcement Learning",
+      "publication_date": "2026-03-13",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Software-Defined Networks and 5G",
+      "subfield": "Computer Networks and Communications",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7135117643",
+      "doi": "10.1016/j.trc.2026.105620",
+      "title": "A queue-battery model for electrified traffic flow considering endogenous congestion propagation",
+      "publication_date": "2026-03-12",
+      "journal": "Transportation Research Part C: Emerging Technologies",
+      "source_id": "S64511102",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Advanced Queuing Theory Analysis",
+      "subfield": "Management Information Systems",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416909705",
+      "doi": "10.1016/j.aej.2025.11.025",
+      "title": "An optimization framework for multi-objective traffic signal control using intersection similarity and reinforcement learning",
+      "publication_date": "2025-12-01",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "multi-source"
+      ],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415003009",
+      "doi": "10.1109/tits.2025.3587473",
+      "title": "MetaSignal: Meta Reinforcement Learning for Traffic Signal Control via Fourier Basis Approximation",
+      "publication_date": "2025-10-09",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W4401305588",
+      "doi": "10.1080/23249935.2026.2689597",
+      "title": "Kriformer: a novel spatiotemporal kriging approach based on graph transformers",
+      "publication_date": "2026-06-19",
+      "journal": "Transportmetrica A: Transport Science",
+      "source_id": "S4210177949",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Data Management and Algorithms",
+      "subfield": "Signal Processing",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatiotemporal",
+        "transformer"
+      ],
+      "score": 8
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162299405",
+      "doi": "10.1016/j.aej.2026.05.021",
+      "title": "Artificial intelligence in urban transportation systems: A systematic survey and taxonomy",
+      "publication_date": "2026-05-25",
+      "journal": "Alexandria Engineering Journal",
+      "source_id": "S2764413287",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "spatio-temporal"
+      ],
+      "score": 6
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416743834",
+      "doi": "10.1080/21680566.2025.2578624",
+      "title": "Estimating traffic states and analysing the entropy-state relationships of electric two-wheeler flow",
+      "publication_date": "2025-11-26",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "uncertainty"
+      ],
+      "score": 6
+    },
+    {
+      "openalex_id": "https://openalex.org/W7136512126",
+      "doi": "10.1109/tits.2026.3658644",
+      "title": "A Review of Stop-and-Go Traffic Wave Suppression Strategies: Variable Speed Limit Versus Jam-Absorption Driving",
+      "publication_date": "2026-03-16",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7136521552",
+      "doi": "10.1109/tetci.2026.3670691",
+      "title": "Neighbor-Embedded Graph Neural Network-Based Crowd Delivery Traffic Management in Smart City",
+      "publication_date": "2026-03-16",
+      "journal": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "source_id": "S4210210251",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Mobile Crowdsensing and Crowdsourcing",
+      "subfield": "Computer Science Applications",
+      "oa_status": "green",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [
+        "graph neural network"
+      ],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7118085228",
+      "doi": "10.1016/j.tre.2025.104645",
+      "title": "Joint optimization of flood water routing and congestion-aware evacuation scheduling",
+      "publication_date": "2026-01-03",
+      "journal": "Transportation Research Part E: Logistics and Transportation Review",
+      "source_id": "S173966628",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Evacuation and Crowd Dynamics",
+      "subfield": "Ocean Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7106002417",
+      "doi": "10.1080/21680566.2025.2575955",
+      "title": "Arterial vehicle trajectory reconstruction by integrating driving behaviour pattern recognition",
+      "publication_date": "2025-11-19",
+      "journal": "Transportmetrica B: Transport Dynamics",
+      "source_id": "S2498450034",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W4415123992",
+      "doi": "10.1109/tits.2025.3614981",
+      "title": "A Multi-Centralized Strategy for Trajectory-Based Active Traffic Management With Cooperative Automation",
+      "publication_date": "2025-10-13",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "A_CORE",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7136053344",
+      "doi": "10.1016/j.trd.2026.105292",
+      "title": "Stress-testing road network resilience using counterfactual flood events (1953–2024) in Great Britain",
+      "publication_date": "2026-03-15",
+      "journal": "Transportation Research Part D: Transport and Environment",
+      "source_id": "S45181156",
+      "query_ids": [
+        "R02"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Infrastructure Resilience and Vulnerability Analysis",
+      "subfield": "Civil and Structural Engineering",
+      "oa_status": "hybrid",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [],
+      "score": 12
+    },
+    {
+      "openalex_id": "https://openalex.org/W7126105409",
+      "doi": "10.1061/jtepbs.teeng-9112",
+      "title": "Novel Method for Camera Perspective Changes Detection Based on Semantic Understanding of Traffic Scenes",
+      "publication_date": "2026-01-29",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Video Surveillance and Tracking Methods",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "oa_status": "closed",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [
+        "short-term",
+        "spatiotemporal"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W4417508467",
+      "doi": "10.1109/tits.2025.3642629",
+      "title": "Efficient Haze Removal via Scene Depth Ordering for Robust Traffic Monitoring",
+      "publication_date": "2025-12-19",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Image Enhancement Techniques",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "oa_status": "closed",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [
+        "weather"
+      ],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7137322684",
+      "doi": "10.1109/tits.2026.3671220",
+      "title": "NextSim: Multi-Level Traffic Simulation for Urban Networks Using Dynamic Level Assignment",
+      "publication_date": "2026-03-16",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "R01"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [],
+      "score": 8
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416773465",
+      "doi": "10.1061/jtepbs.teeng-8850",
+      "title": "Impact of Transportation Network Development on Service Resilience: Insights from Beijing",
+      "publication_date": "2025-11-28",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "R03"
+      ],
+      "query_groups": [
+        "RELIABILITY / RESILIENCE"
+      ],
+      "query_priority_max": 3,
+      "query_priority_sum": 3,
+      "matched_query_count": 1,
+      "primary_topic": "Infrastructure Resilience and Vulnerability Analysis",
+      "subfield": "Civil and Structural Engineering",
+      "oa_status": "green",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [],
+      "score": 8
+    },
+    {
+      "openalex_id": "https://openalex.org/W7166560690",
+      "doi": "10.1080/15472450.2026.2693996",
+      "title": "Machine learning classification of recurring and non-recurring congestion using threshold-based traffic sensor alerts",
+      "publication_date": "2026-06-28",
+      "journal": "Journal of Intelligent Transportation Systems",
+      "source_id": "S172631016",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "closed",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [
+        "weather"
+      ],
+      "score": 7
+    },
+    {
+      "openalex_id": "https://openalex.org/W7165744210",
+      "doi": "10.1049/itr2.70266",
+      "title": "Proactive Congestion Detection in V2V Scenarios With an Integrated Multi‐Layer Information Fusion Approach",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "B_RELATED",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7164651074",
+      "doi": "10.1061/jtepbs.teeng-9752",
+      "title": "Joint Lane Selection and Coordinated Signal Control for Mixed Traffic Arterials with CAV-Dedicated Lanes",
+      "publication_date": "2026-06-13",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162870661",
+      "doi": "10.1016/j.trb.2026.103519",
+      "title": "Cross-regional cooperative multiple-timescale joint traffic control, signal control, and routing for maximum network throughput",
+      "publication_date": "2026-05-30",
+      "journal": "Transportation Research Part B: Methodological",
+      "source_id": "S96305778",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Network Traffic and Congestion Control",
+      "subfield": "Computer Networks and Communications",
+      "oa_status": "hybrid",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7162676408",
+      "doi": "10.1061/jtepbs.teeng-9398",
+      "title": "Review and Taxonomy of Advanced Traffic Signal Control",
+      "publication_date": "2026-05-28",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414970979",
+      "doi": "10.1109/tits.2026.3683849",
+      "title": "Distributed MPC-Based Coordination of Traffic Perimeter and Signal Control: A Lexicographic Optimization Approach",
+      "publication_date": "2026-05-05",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Neural Networks and Applications",
+      "subfield": "Artificial Intelligence",
+      "oa_status": "green",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7155502295",
+      "doi": "10.1109/tits.2026.3683084",
+      "title": "Robust Adversarial Weighted Meta Reinforcement Learning for Generalizable Traffic Signal Control",
+      "publication_date": "2026-04-24",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Adversarial Robustness in Machine Learning",
+      "subfield": "Artificial Intelligence",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7153140255",
+      "doi": "10.1049/itr2.70210",
+      "title": "Pre‐Trained DRL Selection and Fine‐Tuning for Traffic Signal Control",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [
+        "spatiotemporal"
+      ],
+      "score": 10
+    },
+    {
+      "openalex_id": "https://openalex.org/W7136202726",
+      "doi": "10.1109/tits.2026.3670486",
+      "title": "Scalable Multi-Objective Optimization for Robust Traffic Signal Control in Uncertain Environments Based on Hierarchical Reinforcement Learning",
+      "publication_date": "2026-03-16",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7169596053",
+      "doi": "10.1049/itr2.70296",
+      "title": "Coordination in Traffic Signal Control: A Mechanism‐Oriented Survey of Multi‐Agent Learning Approaches",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7163026927",
+      "doi": "10.1049/itr2.70247",
+      "title": "Smart Traffic Signal Control in Urban Environments Leveraging SUMO and Curiosity‐Enhanced MAPPO",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "gold",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 9
+    },
+    {
+      "openalex_id": "https://openalex.org/W7155603044",
+      "doi": "10.1061/jtepbs.teeng-9357",
+      "title": "Deep Reinforcement Learning for Hybrid Traffic Control: Coordinating AI and Fixed-Time Signal Controllers in Urban Networks",
+      "publication_date": "2026-04-25",
+      "journal": "Journal of Transportation Engineering Part A: Systems",
+      "source_id": "S4210178838",
+      "query_ids": [
+        "C01"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 6
+    },
+    {
+      "openalex_id": "https://openalex.org/W7161580560",
+      "doi": "10.1109/tits.2026.3680283",
+      "title": "Hybrid Frame-Enhanced LiDAR/GNSS/IMU Fusion for Accurate and Robust Mapping in Mixed Traffic Environments",
+      "publication_date": "2026-01-01",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C04"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Robotics and Sensor-Based Localization",
+      "subfield": "Aerospace Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [
+        "long-term"
+      ],
+      "score": 6
+    },
+    {
+      "openalex_id": "https://openalex.org/W7167211688",
+      "doi": "10.1049/itr2.70271",
+      "title": "AID‐VLM: The Vision‐Language Model for Traffic Incident Understanding",
+      "publication_date": "2026-01-01",
+      "journal": "IET Intelligent Transport Systems",
+      "source_id": "S155689059",
+      "query_ids": [
+        "C03"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic Prediction and Management Techniques",
+      "subfield": "Building and Construction",
+      "oa_status": "gold",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W4416323594",
+      "doi": "10.1109/tits.2025.3632297",
+      "title": "Event-Triggered Regulation of Mixed-Autonomy Traffic Under Varying Traffic Conditions",
+      "publication_date": "2025-11-18",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "source_id": "S144771191",
+      "query_ids": [
+        "C02"
+      ],
+      "query_groups": [
+        "MANAGEMENT"
+      ],
+      "query_priority_max": 2,
+      "query_priority_sum": 2,
+      "matched_query_count": 1,
+      "primary_topic": "Traffic control and management",
+      "subfield": "Control and Systems Engineering",
+      "oa_status": "closed",
+      "relevance_class": "C_MANAGEMENT",
+      "high_priority_terms_matched": [],
+      "score": 5
+    },
+    {
+      "openalex_id": "https://openalex.org/W7208757272",
+      "doi": "10.1016/j.jtrangeo.2026.104823",
+      "title": "Border effects in European air passenger transport",
+      "publication_date": "2026-09-04",
+      "journal": "Journal of Transport Geography",
+      "source_id": "S80150607",
+      "query_ids": [
+        "X02"
+      ],
+      "query_groups": [
+        "CROSS-BORDER"
+      ],
+      "query_priority_max": 5,
+      "query_priority_sum": 5,
+      "matched_query_count": 1,
+      "primary_topic": "Aviation Industry Analysis and Trends",
+      "subfield": "General Economics, Econometrics and Finance",
+      "oa_status": "hybrid",
+      "relevance_class": "D_PERIPHERAL",
+      "high_priority_terms_matched": [],
+      "score": 12
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "checks": [
+      {
+        "name": "ab_scope_contamination",
+        "status": "PASS",
+        "details": ""
+      },
+      {
+        "name": "trajectory_prediction_a_core",
+        "status": "PASS",
+        "details": ""
+      },
+      {
+        "name": "duplicate_doi",
+        "status": "PASS",
+        "details": ""
+      },
+      {
+        "name": "duplicate_openalex_id",
+        "status": "PASS",
+        "details": ""
+      },
+      {
+        "name": "source_whitelist",
+        "status": "PASS",
+        "details": ""
+      },
+      {
+        "name": "top20_core_precision",
+        "status": "PASS",
+        "details": "20/20"
+      },
+      {
+        "name": "daily_top10_management_cap",
+        "status": "PASS",
+        "details": "0/10"
+      },
+      {
+        "name": "non_empty_outputs",
+        "status": "PASS",
+        "details": ""
+      }
+    ],
+    "top20_core_precision": "20/20",
+    "simulated_top10_precision": "10/10"
+  }
+}

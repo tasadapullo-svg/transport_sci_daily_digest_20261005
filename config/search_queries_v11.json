@@ -1,0 +1,290 @@
+[
+  {
+    "id": "F01",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic speed forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F02",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic speed prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F03",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic flow forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F04",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic flow prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F05",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "travel time prediction",
+    "scope": "title",
+    "exact_phrase": true
+  },
+  {
+    "id": "F06",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "travel time forecasting",
+    "scope": "title",
+    "exact_phrase": true
+  },
+  {
+    "id": "F07",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic state prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F09",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "traffic probabilistic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "F10",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "multi-horizon traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "F11",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "short-term traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "F12",
+    "group": "CORE FORECASTING",
+    "priority": 5,
+    "query": "long-term traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": true
+  },
+  {
+    "id": "M01",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "graph neural network traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M02",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "transformer traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M03",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "transfer learning traffic prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M04",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "cross-city traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M05A",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "cross-city traffic prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M05B",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "transferable traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "M06",
+    "group": "METHODS",
+    "priority": 4,
+    "query": "uncertainty traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D01",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "floating car data",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D02",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "probe vehicle traffic",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D03",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "multi-source traffic data fusion",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D04",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "multimodal traffic prediction",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D05",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "multimodal traffic forecasting",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D06",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "connected vehicle data traffic",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "D07",
+    "group": "DATA / MULTISOURCE",
+    "priority": 4,
+    "query": "traffic sensor reliability",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "C01",
+    "group": "MANAGEMENT",
+    "priority": 2,
+    "query": "traffic signal control",
+    "scope": "title",
+    "exact_phrase": false
+  },
+  {
+    "id": "C02",
+    "group": "MANAGEMENT",
+    "priority": 2,
+    "query": "traffic congestion management",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "C03",
+    "group": "MANAGEMENT",
+    "priority": 2,
+    "query": "traffic incident",
+    "scope": "title",
+    "exact_phrase": false
+  },
+  {
+    "id": "C04",
+    "group": "MANAGEMENT",
+    "priority": 2,
+    "query": "traffic state estimation",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "R01",
+    "group": "RELIABILITY / RESILIENCE",
+    "priority": 3,
+    "query": "traffic reliability",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "R02",
+    "group": "RELIABILITY / RESILIENCE",
+    "priority": 3,
+    "query": "road network resilience",
+    "scope": "title",
+    "exact_phrase": false
+  },
+  {
+    "id": "R03",
+    "group": "RELIABILITY / RESILIENCE",
+    "priority": 3,
+    "query": "transportation network resilience",
+    "scope": "title",
+    "exact_phrase": false
+  },
+  {
+    "id": "X01",
+    "group": "CROSS-BORDER",
+    "priority": 5,
+    "query": "border crossing congestion",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "X02",
+    "group": "CROSS-BORDER",
+    "priority": 5,
+    "query": "cross-border transportation",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "X03",
+    "group": "CROSS-BORDER",
+    "priority": 5,
+    "query": "checkpoint traffic",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  },
+  {
+    "id": "X04",
+    "group": "CROSS-BORDER",
+    "priority": 5,
+    "query": "border travel time",
+    "scope": "title_and_abstract",
+    "exact_phrase": false
+  }
+]
